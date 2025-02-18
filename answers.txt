@@ -8,3 +8,7 @@ Answer: Data science can be applied to the field of ML because all supervised ML
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines commit changes from different branches wheras rebasing commits the changes one after another. This works if one of the merges has changes unrelated to the other
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning data science techniques and applying them to the end of semester project.
